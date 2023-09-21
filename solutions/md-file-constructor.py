@@ -33,17 +33,17 @@ for index, row in df.iterrows():
 ```python
 {solution_code}
 ```
-##Difficulty
+## Difficulty
 {difficulty}
 
-##Explanation
+## Explanation
 {explanation} 
 
-##Examples
+## Examples
 ```python
 {examples} 
 ```
-##Algorithm Complexity
+## Algorithm Complexity
 {algorithm_complexity} 
 """
 
