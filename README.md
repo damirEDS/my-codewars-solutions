@@ -9,8 +9,8 @@ This repository contains my solutions to problems from the [Codewars](https://ww
 |-- README.md
 |-- solutions/
     |-- kyu_7/
-        |-- problem_name.py
-        |-- another_problem.py
+        |-- problem_name.md
+        |-- another_problem.md
     |-- kyu_6/
         |-- ...
     |-- kyu_5/
